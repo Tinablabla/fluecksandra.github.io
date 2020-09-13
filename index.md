@@ -1,5 +1,5 @@
 ---
-title: Lerntagebuch
+title: Lerntagebuc
 ---
 
 ## Willkommen zu meinem Lerntagebuch
