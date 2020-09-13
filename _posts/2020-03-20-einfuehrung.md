@@ -11,8 +11,8 @@ Das Thema Schnittstellen und Datenaustausch war bei meiner Mitarbeit bei E-Libra
 
 Natürlich ist auch das Thema Publikationsplattformen und Repositories ein heisses Thema. Im Zuge der Open-Access Bewegung werden an der Universität Bern neue Publikationsplattformen und Respositories aufgebaut und zur Verfügung gestellt. Beispiele: [BORIS](https://boris.unibe.ch/), [BORIS Theses](https://boristheses.unibe.ch/), [BOP](https://bop.unibe.ch/). Damit die Inhalte gut sichtbar sind, werden die Daten in die "gängigen" Bibliothekskataloge eingespielt. 
 
-Ich erwarte von diesem Kurs, dass ich am Schluss die grundlegende Funktionsweise von den gängigsten Bibliotheksanwendungen kenne. Dazu gehören Bibliothekssysteme, Suchmaschinen und Publikationsplattformen. Ausserdem will ich verstehen, wie Metadaten übertragen werden.
-Beispielfrage: Wie werden E-Book-Pakete in ein System eingespielt? 
+Ich erwarte von diesem Kurs, dass ich am Schluss die grundlegende Funktionsweise von wichtigen Bibliotheksanwendungen kenne. Dazu gehören Bibliothekssysteme, Suchmaschinen und Publikationsplattformen. Ausserdem will ich verstehen, wie Metadaten übertragen werden.
+Beispielfragen: Wie werden E-Book-Pakete in ein System (Bibliothekssystem oder Suchmaschine) eingespielt? Welche Austauschformate werden verwendet? Wie ist ein Bibliothekssystem "aufgebaut"? Welchen interessanten Unterschiede zwischen den verschiedenen Bibliotkehssoftwares gibt es (was kann dieses System was das andere nicht kann)? Wie stelle ich fest, welche Software am besten passt?
 
 
 
