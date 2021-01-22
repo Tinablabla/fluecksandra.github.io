@@ -13,15 +13,15 @@ Der Workload war aus meiner Sicht angemessen. Das Erstellen der Blogbeiträge ha
 Auch wurde regemlässig nach den Interessen der Klasse gefragt. Auf die Wünsche wurde, wann immer möglich, eingegangen (z.B Ausführungen zu LIDO, Inputs rund um Alma und SLSP etc.)
 
 Meine Highlights waren OpenRefine, die Lehreinheiten zu den Discovery-Tools und die Vorlesungen, die sich mit dem Thema Schnittstellen befassten. Auch die Inputs OA, Open Data und Forschungsinformationssystemen waren sehr spannend. Hilfreich fürs Verständnis waren die Vergleiche: Bibliothekssoftware vs. Archivsoftware - wo sind die entscheidenden Unterschiede?. Oder: inwiefern unterscheiden sich die Systeme von öffentlichen Bibliotheken von denjenigen, die in wissenschaftlichen Bibliotheken verwendet werden?.
-Gerade für OpenRefine hätten wir uns, aus meiner Sicht, mehr Zeit nehmen dürfen. Die Auseinandersetzung mit den verschiedenen Themen war insgesamt eher obeflächlich. Dies sicher hauptsächlich deshalb, weil wir einfach sehr wenig Zeit zur Verfügung hatten.
-Für mich waren aber die vermittelten Zusammenhänge das Wertvollste. Mein Fazit schliesslich:
-
-Es gibt verschiedene Systeme (Koha, ArchivesSpace und DSpace) und entsprechendend auch unterschiedliche Datenformate bzw. unterschiedliche Verzeichnungsstrategien. Die Daten können über Schnittstellen (in der Regel OAI-MPH) abgerufen - und anschliessend in einen anderen Standard konvertiert werden (Crosswalks). Konvertiertungen sind oft (aber nicht zwingend immer) verlustbehaftet. Wer Daten aus verschiedenen Quellen in einem Discovery-Tool (z.B VuFind) darstellen will, muss dafür sorgen, dass sie im gleichen Format vorliegen. Das Discovery-System VuFind basiert auf dem Suchindex Solr.
-
+Gerade für OpenRefine hätten wir uns, aus meiner Sicht, mehr Zeit nehmen dürfen. Die Auseinandersetzung mit den verschiedenen Themen war insgesamt eher obeflächlich. Dies sicher hauptsächlich deshalb, weil wir einfach sehr wenig Zeit zur Verfügung hatten. Für mich waren aber die vermittelten Zusammenhänge das Wertvollste. 
 
 Etwas schwierig war für mich immer der Umgang mit der Unix Shell. Die Installationen haben oft ziemlich viel Zeit in Anspruch genommen und, obwohl die Dozierenden die Befehle immer erklärten, wusste ich eigentlich selten was genau ich da gemacht habe. Ich habe die Befehle einfach in der richtigen Reihenfolge ausgeführt und nicht wirklich verstanden. Aber aus meiner Sicht ist das auch nicht das Hauptziel der Vorlesung. 
 
-Die GDWG-Plattformen mit dem Codi-MD war eine grosse Entdeckung für mich. Für mich steht es für Transparenz, Kollaboration, Aktualität und einfachen Zugang zu Informationen. Auch in einem anderen Modul (Projektkurs) wurde eine Projektplattform bei der GWDG erstellt, die schliesslich einen sehr unkomplizierten Austausch ermöglichte. 
+Die GDWG-Plattformen mit dem Codi-MD war eine grosse Entdeckung für mich. Für mich steht das gemeinsame Dokument bei der GWDG für Transparenz, Kollaboration, Aktualität und einfachen Zugang zu Informationen. Auch in einem anderen Modul (Projektkurs) wurde eine Projektplattform bei der GWDG erstellt, die schliesslich einen sehr unkomplizierten Austausch ermöglichte. 
+
+**Was habe ich gelernt?**
+
+Es gibt verschiedene Systeme (Koha, ArchivesSpace und DSpace) und entsprechendend auch unterschiedliche Datenformate bzw. unterschiedliche Verzeichnungsstrategien. Die Daten können über Schnittstellen (in der Regel OAI-MPH) abgerufen - und anschliessend in einen anderen Standard konvertiert werden (Crosswalks). Konvertiertungen sind oft (aber nicht zwingend immer) verlustbehaftet. Wer Daten aus verschiedenen Quellen in einem Discovery-Tool (z.B VuFind) darstellen will, muss dafür sorgen, dass sie im gleichen Format vorliegen. Das Discovery-System VuFind basiert auf dem Suchindex Solr.
 
 Alles in allem habe ich in diesem Kurs sehr viel gelernt. Ich hoffe, dass auch künftige Klassen den Kurs mit diesen beiden Dozierenden erleben dürfen.
 
