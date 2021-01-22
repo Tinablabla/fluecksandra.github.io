@@ -4,7 +4,7 @@ date: 2021-01-08
 ---
 
 Überraschend schnell war dieses Modul wieder vorbei. Ich bin sicher man hätte die unglaublich vielen Inhalte auch gut in doppelt so viele Vorlesungen packen können - ohne dass es langeweilige geworden wäre. Die gute Mischung aus Theorie und Praxis war ein sehr grosser Pluspunkt. Die Themen empfand ich teilweise als sehr komplex, da sehr Vieles absolut neu für mich war. So war es ideal, dass wir und oftmals nach einer kurzen theoretischen Einführung sofort einer praktischen Übung zuwendeten. Die Übungen halfen in der Regel sehr gut dabei die Zusammenhänge besser zu verstehen.
-Besonders hilfreich war auch das Schaubild, welches uns wie ein roter Faden durch das ganze Modul begleitete. Ich empfinde es immer als besonders wichtig regelmässig zu hören WO man sich nun gerade im Fahrplan. So ist es auch einfacher zu verstehen WIESO etwas angeschaut wird bzw. wichtig zu wissen ist. 
+Besonders hilfreich war auch das Schaubild, welches uns wie ein roter Faden durch das ganze Modul begleitete. Ich empfinde es immer als besonders wichtig regelmässig zu hören WO man sich nun gerade im Fahrplan befindet und wo man hinsteuert. So ist es auch einfacher zu verstehen WIESO etwas angeschaut wird bzw. wichtig zu wissen ist. 
 
 Dass wir zwei sehr kompetente Dozierende hatten, war sehr schnell klar. Auf jegliche Fragen folgten verständliche Antworten. Aus meiner Sicht war es ein grosser Vorteil von zwei Dozierenden betreut zu werden. Gerade wenn jemand ein technisches Problem hatte, konnte sich ein Dozierender mit dem Problem befassen während der andere mit dem Stoff weiterfahren konnte. So wurden wir selten wirklich von technischen Problemen einzelner gebremst.
 
