@@ -1,5 +1,5 @@
 ---
-title: "Tag 10 : Schlusswort"
+title: "Schlusswort"
 date: 2021-01-08
 ---
 
